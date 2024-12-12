@@ -23,9 +23,4 @@ Welcome to my code playground! I’m on a mission to **build smarter, faster, an
 ### 🌱 Always Learning  
 I’m constantly exploring new AI capabilities and pushing the boundaries of what’s possible in software engineering.  
 
-### 📬 Let’s Connect!  
-- LinkedIn: [Your LinkedIn](#)  
-- Twitter: [@YourHandle](#)  
-- Personal Site: [Your Site](#)  
-
 > *"The Future Unseen, The Impact Felt."*  
